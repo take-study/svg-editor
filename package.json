@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "fabricjs": "^1.0.0",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/fabric": "^5.3.5"
+  },
+  "name": "fabric-svg-editor",
+  "version": "1.0.0",
+  "description": "a small svg editor based on fabricjs",
+  "main": "index.ts",
+  "author": "take-study",
+  "license": "MIT"
+}
