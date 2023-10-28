@@ -1,0 +1,11 @@
+{
+  "typescript.tsdk": "${worksapceFolder}/node_modules/typescript/lib",
+  "eslint.format.enable": true,
+  "eslint.validate": ["typescript", "javascript"],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
